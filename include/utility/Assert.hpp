@@ -1,6 +1,7 @@
 #pragma once
 
 #include <cstdio>
+#include <cstdlib>
 
 // TODO: different versions for debug vs release mode
 
